@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/sign_In"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Login In or Sign Up"/>
+     <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="Share"/>
+     <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"/>
+
+    <item
+        android:id="@+id/notes"
+        android:icon="@drawable/ic_baseline_note_24"
+        android:title="Notes"/>
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"/>
+
+    <item
+        android:id="@+id/trivia"
+        android:icon="@drawable/ic_baseline_study_24"
+        android:title="Trivia"/>
+    <item
+        android:id="@+id/dark_theme"
+        android:icon="@drawable/ic_baseline_note_24"
+        android:title="Dark Theme"/>
+</menu>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/media"
+        android:icon="@drawable/ic_baseline_smart_display_24"
+        android:title="Media"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/events"
+        android:icon="@drawable/ic_baseline_explore_24"
+        android:title="Events"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/bible"
+        android:icon="@drawable/app_icon"
+        android:title="Bible"
+        android:visible="true"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/connect"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Connect"
+        android:visible="true"
+        app:showAsAction="withText" />
+</menu>

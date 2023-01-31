@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Calvary Chapel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="me">Me</string>
+    <string name="study">Study</string>
+    <string name="home_fragment">Home_fragment</string>
+    <string name="explore_fragment">explore_fragment</string>
+    <string name="study_fragment">study_fragment</string>
+    <string name="me_fragment" translatable="false">me_fragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="settings">Settings</string>
+    <string name="welcome">"Please Sign In\nWelcome to Calvary Chapel Eldoret"</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="more_features">More Features</string>
+    <string name="jigsaw">"BIBLE TRIVIA"</string>
+    <string name="qstn1">Happy are the poor for they shall _</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="full_names">Full Names</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="fblive">"Facebook Page\n" "Live Streaming on Sunday" </string>
+    <string name="event">At Calvary Chapel Eldoret.\nJan 1, 2023 from 8.00 am - 1.00 pm</string>
+    <string name="thursdayevent">At Calvary Chapel Eldoret.\nJan 5, 2023 from 6.00 pm - 7.15 pm</string>
+    <string name="fridayevent">At Chapel.\nJan 6, 2023 from 6.00 pm - 7.15 pm</string>
+    <string name="saturdayevent">At Calvary Chapel.\nJan 7, 2023 from 8.00 am - 10.00 am</string>
+
+
+    <string name="facebook_app_id">1561641857688050</string>
+    <string name="fb_login_protocol_scheme">fb1561641857688050</string>
+    <string name="facebook_client_token">7a0849ca0684ebacd0c619a36f43b2e8</string>
+    <string name="genesis">Genesis</string>
+    <string name="exodus">Exodus</string>
+    <string name="joel">Joel</string>
+    <string name="revelation">Revelation</string>
+</resources>
